@@ -56,7 +56,7 @@ class Moyai : Plugin() {
                             .setUsage(AudioAttributes.USAGE_MEDIA)
                             .build()
                     )
-                    setDataSource("https://github.com/jlortiz0/PlayerCollars/blob/main/src/main/resources/assets/playercollars/sounds/clicker_on.ogg")
+                    setDataSource("")
                     prepare()
                     start()
                 }
