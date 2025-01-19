@@ -56,7 +56,7 @@ class Moyai : Plugin() {
                             .setUsage(AudioAttributes.USAGE_MEDIA)
                             .build()
                     )
-                    setDataSource("")
+                    setDataSource("https://github.com/ZanaTheKitty/Meow/raw/refs/heads/main/src_main_resources_clicker.wav")
                     prepare()
                     start()
                 }
